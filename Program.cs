@@ -169,7 +169,7 @@ class Calculator
             return 6 * sideLength * sideLength;
         }
 
-        // Функція для обчислення об'єму куба
+        // Функція обчислення об'єму куба
         static double CalculateVolume(double sideLength)
         {
             return Math.Pow(sideLength, 3);
